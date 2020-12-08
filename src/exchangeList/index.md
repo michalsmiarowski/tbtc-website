@@ -1,6 +1,6 @@
 ---
 template: exchangeList
-exchangeList:
+~~exchangeList~~:
   - logo:
       alt: Balancer Logo
       image: /img/balancer.svg
