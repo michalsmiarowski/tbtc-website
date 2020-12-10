@@ -21,10 +21,5 @@ exchangeList:
       image: /img/matcha.svg
     name: Matcha
     url: 'https://matcha.xyz/'
-  - logo:
-      alt: Balancer Logo
-      image: /img/balancer.svg
-    name: Balancer
-    url: 'https://balancer.exchange/#/swap'
 ---
 
